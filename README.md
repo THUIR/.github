@@ -1,1 +1,1 @@
-# .github
+Information Retrieval Lab at Tsinghua University (THUIR) focuses on the research of Information Retrieval including but not limited to the theories, algorithms, and applications of intelligent search and recommendation systems. We aim to study and resolve the information mismatch between user’s needs and information resources to provide the most reliable and valuable information to each individual.
